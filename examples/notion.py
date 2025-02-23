@@ -1,4 +1,4 @@
-"""Github Login Example"""
+"""Notion Login Example"""
 
 import os
 import uvicorn

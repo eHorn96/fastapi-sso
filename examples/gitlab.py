@@ -1,4 +1,4 @@
-"""Github Login Example"""
+"""Gitlab Login Example"""
 
 import os
 import uvicorn
